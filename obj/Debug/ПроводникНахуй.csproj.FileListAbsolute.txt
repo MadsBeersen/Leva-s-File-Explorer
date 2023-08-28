@@ -1,0 +1,8 @@
+C:\Users\blejz\source\repos\ПроводникНахуй\obj\Debug\ПроводникНахуй.csproj.AssemblyReference.cache
+C:\Users\blejz\source\repos\ПроводникНахуй\obj\Debug\ПроводникНахуй.csproj.SuggestedBindingRedirects.cache
+C:\Users\blejz\source\repos\ПроводникНахуй\obj\Debug\ПроводникНахуй.csproj.CoreCompileInputs.cache
+C:\Users\blejz\source\repos\ПроводникНахуй\bin\Debug\ПроводникНахуй.exe.config
+C:\Users\blejz\source\repos\ПроводникНахуй\bin\Debug\ПроводникНахуй.exe
+C:\Users\blejz\source\repos\ПроводникНахуй\bin\Debug\ПроводникНахуй.pdb
+C:\Users\blejz\source\repos\ПроводникНахуй\obj\Debug\ПроводникНахуй.exe
+C:\Users\blejz\source\repos\ПроводникНахуй\obj\Debug\ПроводникНахуй.pdb
